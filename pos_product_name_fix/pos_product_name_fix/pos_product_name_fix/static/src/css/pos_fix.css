@@ -1,0 +1,12 @@
+.product-name {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  -webkit-line-clamp: unset !important;
+  display: block !important;
+  font-size: 11px !important;
+  line-height: 1.3 !important;
+  max-height: none !important;
+  word-break: break-word !important;
+  height: auto !important;
+}
